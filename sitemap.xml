@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <sitemap>
-		<loc>http://pag.sdslabs.co/1.xml</loc>
+		<loc>http://pag.sdslabs.co/sitemap_1.xml</loc>
 		<lastmod>2019-01-23T19:40:45+03:00</lastmod>
 </sitemap>
 <sitemap>
-		<loc>http://pag.sdslabs.co/2.xml</loc>
+		<loc>http://pag.sdslabs.co/sitemap_2.xml</loc>
 		<lastmod>2019-01-23T19:40:45+03:00</lastmod>
 </sitemap>
 <sitemap>
-		<loc>http://pag.sdslabs.co/3.xml</loc>
+		<loc>http://pag.sdslabs.co/sitemap_3.xml</loc>
 		<lastmod>2019-01-23T19:40:45+03:00</lastmod>
 </sitemap>
 <sitemap>
-		<loc>http://pag.sdslabs.co/4.xml</loc>
+		<loc>http://pag.sdslabs.co/sitemap_4.xml</loc>
 		<lastmod>2019-01-23T19:40:45+03:00</lastmod>
 </sitemap>
 <sitemap>
-		<loc>http://pag.sdslabs.co/5.xml</loc>
+		<loc>http://pag.sdslabs.co/sitemap_5.xml</loc>
 		<lastmod>2019-01-23T19:40:45+03:00</lastmod>
 </sitemap>
 <sitemap>
-		<loc>http://pag.sdslabs.co/6.xml</loc>
+		<loc>http://pag.sdslabs.co/sitemap_6.xml</loc>
 		<lastmod>2019-01-23T19:40:45+03:00</lastmod>
 </sitemap>
 </sitemapindex>
